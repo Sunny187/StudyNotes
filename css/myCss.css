@@ -36,3 +36,217 @@ p {
     background-color: blueviolet;
     width : 300px
 } */
+
+/* body {
+    background-image:url("./images/2008217155811460_2.jpg") ;
+    background-repeat: no-repeat ;
+    background-size: 1000px , 1000px;
+    background-position: left top ; */
+    /* background-attachment:fixed ;
+    
+}
+
+/* p {
+    background-image:url("./images/455997_210533290000_2.jpg");
+} */
+
+/* 
+body{
+    color:burlywood ;
+    text-align: right;
+} */
+
+/* p{
+    text-shadow: 5px 5px 5px #FF0000;
+} */
+/* 
+p{
+    font-size: 40px 
+} */
+
+/* a:link{
+    color: red;
+    text-decoration: none;
+    
+}
+
+a:visited{
+    color:blue;
+}
+
+a:hover{
+    color:green;
+}
+
+a:active{
+    color:yellow;
+} */
+
+/* 
+ul li{
+    list-style-image: url("./images/1.jpg");
+} */
+
+
+/* #tb {
+    border-collapse: collapse ;
+    width: 500px ;
+}
+
+#tb td , #tb th {
+    border: 1px solid bisque ;
+    padding: 5px;
+}
+
+#tb th {
+    text-align: right ;
+    background-color: aqua;
+    color: #ffffff;
+}
+
+#tb tr.alt td {
+    color: black ;
+    background-color: aquamarine;
+} */
+
+
+/* p {
+    outline-style: dotted ;
+    outline-color: aqua;
+} */
+
+/* #position1 {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+
+    position: relative;
+    left:20px ;
+    top:20px ;
+
+    /* position: absolute;
+    left:100px ;
+    top:100px */
+
+    /* position: fixed;
+    left:100px ;
+    top:100px */
+
+    /* position: static;
+    left:100px ;
+    top:100px */
+    /* z-index: 1; */
+
+/* } */
+/* 
+#position2 {
+    width: 100px;
+    height: 100px;
+    background-color:royalblue;
+
+    position: relative;
+    left:10px ;
+    top:10px ;
+   
+
+    /* position: absolute;
+    left:100px ;
+    top:100px */
+
+    /* position: fixed;
+    left:100px ;
+    top:100px */
+
+    /* position: static;
+    left:100px ;
+    top:100px */
+
+/* } */ 
+
+/* #fd {
+    width: 100px;
+    height: 100px;
+    background-color: royalblue ;
+    float:left ;
+    
+}
+
+#sd {
+    width: 100px;
+    height: 100px;
+    background-color: blue ;
+    float:left ;
+}
+
+#td {
+    width: 150px;
+    height: 100px;
+    background-color: rebeccapurple ;
+    
+    
+    float:left ;
+}
+
+#container {
+    width: 300px;
+    height: 500px;
+    background-color: darkgray;
+}
+
+#text{
+    clear:both ;
+} */
+
+/* td { */
+    /* padding: 100px; */
+    /* padding-left: 100px;
+} */
+
+
+/* p {
+    border-radius :10px ;
+    width :100px ;
+    background-color: darkkhaki ;
+    text-align: center;
+    
+}
+
+.cssid {
+    background-color: darkorchid;
+    width: 100px;
+    height: 100px;
+    text-align: center ;
+    box-shadow: 10px 10px 5px #ffccff;
+} */
+
+
+/* .p1 {
+    width: 400px ;
+    line-height: normal;
+}
+
+.p2 {
+    width: 400px ;
+    line-height: 200%;
+}
+
+.p3 {
+    width: 400px ;
+    line-height: 50%
+} */
+
+/* p {
+    cursor: n-resize;
+} */
+
+/* li {
+    display: inline ;
+} */
+
+
+
+
+
+
+
+
