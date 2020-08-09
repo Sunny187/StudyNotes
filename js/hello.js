@@ -137,15 +137,15 @@
 //     window.open ("new.html") ;
 // }
 
-var myTime = setInterval (function () {
-    getTime () ;
-} , 1000) ;
+// var myTime = setInterval (function () {
+//     getTime () ;
+// } , 1000) ;
 
-function getTime () {
-    var  d = new Date () ;
-    var  t = d.toLocaleTimeString();
-    document.getElementById ("pid").innerHTML = t ;
-}
+// function getTime () {
+//     var  d = new Date () ;
+//     var  t = d.toLocaleTimeString();
+//     document.getElementById ("pid").innerHTML = t ;
+// }
 
 
 
